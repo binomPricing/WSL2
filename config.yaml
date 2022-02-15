@@ -12,16 +12,20 @@ markup:
 languages:
   en:
     contentDir: content
-    languageName: English
+    languageName: R-TeX-WSL2-Dropbox
     weight: 1
+  kr:
+    contentDir: content.kr
+    languageName: Korean
+    weight: 2
   ru:
     contentDir: content.ru
     languageName: Russian
-    weight: 2
+    weight: 3
   zh:
     contentDir: content.zh
     languageName: Chinese
-    weight: 3
+    weight: 4
 menu:
   after:
     - name: Github

@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: wsl2-R-tex-dr
     weight: 5
-title: Blog
+title: WSL2-R-TeX-Dropbox 환경
 ---
